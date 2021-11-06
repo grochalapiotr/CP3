@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Product
+comment1.params=name
+comment1.target=void\ setName(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=vegetaian
+comment3.target=void\ setVegetarian(boolean)
+comment4.params=
+comment4.target=boolean\ getVegetarian()
+numComments=5

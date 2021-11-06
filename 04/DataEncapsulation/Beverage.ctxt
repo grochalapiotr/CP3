@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Beverage
+comment1.params=name
+comment1.target=void\ setName(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=volume
+comment3.target=void\ setVolume(float)
+comment4.params=
+comment4.target=float\ getVolume()
+comment5.params=alcohol
+comment5.target=void\ setAlcohol(boolean)
+comment6.params=
+comment6.target=boolean\ getAlcohol()
+comment7.params=flavour
+comment7.target=void\ setFlavour(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getFlavour()
+numComments=9
