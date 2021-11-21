@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Seller
+comment1.params=name\ accountNumber
+comment1.target=Seller(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ sell()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getAccountNumber()
+comment5.params=
+comment5.target=void\ displayInfo()
+numComments=6

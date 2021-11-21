@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=name\ accountNumber\ product\ balance
+comment1.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=product
+comment2.target=void\ chooseProduct(java.lang.String)
+comment3.params=
+comment3.target=void\ buy()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getAccountNumber()
+comment6.params=
+comment6.target=int\ getBalance()
+comment7.params=
+comment7.target=void\ showBalance()
+comment8.params=
+comment8.target=void\ displayInfo()
+numComments=9

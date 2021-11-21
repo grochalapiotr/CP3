@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ComputerFile
+comment1.params=size\ name\ extension
+comment1.target=ComputerFile(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ whatSize()
+comment3.params=
+comment3.target=java.lang.String\ fileName()
+numComments=4
