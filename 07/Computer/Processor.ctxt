@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Processor
+comment1.params=brand\ model\ socket\ frequency\ noOfCores
+comment1.target=Processor(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ calculate()
+comment3.params=
+comment3.target=java.lang.String\ displaySpecification()
+numComments=4
