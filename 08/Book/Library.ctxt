@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Library
+comment1.params=title\ author\ publisher\ year
+comment1.target=void\ addBook(java.lang.String,\ Writer,\ Publisher,\ int)
+comment2.params=title\ author\ fileName\ publisher\ year
+comment2.target=void\ addEbook(java.lang.String,\ Writer,\ java.lang.String,\ Publisher,\ int)
+comment3.params=title\ author\ minutes\ seconds\ publisher\ year
+comment3.target=void\ addAudiobook(java.lang.String,\ Writer,\ int,\ int,\ Publisher,\ int)
+comment4.params=
+comment4.target=void\ display()
+comment5.params=index
+comment5.target=void\ display(int)
+numComments=6
